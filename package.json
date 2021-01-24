@@ -7,6 +7,6 @@
   },
   "type": "module",
   "scripts": {
-    "start": "nodemon node ./src/index.js"
+    "start": "node ./src/index.js"
   }
 }
